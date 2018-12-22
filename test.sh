@@ -1,3 +1,3 @@
 #!/bin/bash
-yum install ansible -y
+yum install epel-release ansible -y
 rpm -qa ansible
